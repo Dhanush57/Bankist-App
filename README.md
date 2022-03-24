@@ -11,4 +11,4 @@ There are 2 pre-defined users in this application,
 
 Live version of the app:
 This app is hoisted by using Netlify, the live version of the app can be found here,
-https://compassionate-bohr-a69a1d.netlify.app/
+https://bankist-app-basic.netlify.app/
